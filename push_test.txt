@@ -1,2 +1,6 @@
 push push
+<<<<<<< HEAD
 aaa
+=======
+github edit
+>>>>>>> origin/pushtest
